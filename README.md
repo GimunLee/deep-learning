@@ -1,4 +1,7 @@
 # 🧬 For learning deep learning 📈
+<br>
+http://hunkim.github.io/ml/
+<br>
 
 ref <br>
 [1.챗봇 기본용어] https://brunch.co.kr/@gentlepie/26 <br>
